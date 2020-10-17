@@ -1,0 +1,44 @@
+
+F:\Greycell_CodeTest>javac TestCode.java
+
+F:\Greycell_CodeTest>java TestCode
+
+expression : /p/r/rPr/sz
+
+<sz>25</sz>
+<sz>30</sz>
+<sz>32</sz>
+<sz>20</sz>
+
+F:\Greycell_CodeTest>java TestCode
+
+expression : /p/pPr/rPr/sz
+
+<sz>20</sz>
+
+F:\Greycell_CodeTest>java TestCode
+
+expression : //sz
+
+<sz>20</sz>
+<sz>25</sz>
+<sz>30</sz>
+<sz>32</sz>
+<sz>20</sz>
+
+F:\Greycell_CodeTest>java TestCode
+
+expression : //r//sz
+
+<sz>25</sz>
+<sz>30</sz>
+<sz>32</sz>
+<sz>20</sz>
+
+F:\Greycell_CodeTest>java TestCode
+
+expression : monik makwana
+
+Please Enter Valid Expression!
+
+F:\Greycell_CodeTest>
